@@ -191,7 +191,7 @@ main {
 }
 
 .menu__item:hover {
-	color: tan;
+	color: #4CBB00FF;
 	transition: 0.5s all;
 }
 
